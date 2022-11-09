@@ -1,0 +1,2 @@
+(this["webpackJsonptraining-event-cra"]=this["webpackJsonptraining-event-cra"]||[]).push([[4],{355:function(n,t,e){"use strict";e.r(t);e(0);var r=e(2);t.default=function(){return Object(r.jsx)(r.Fragment,{children:"Home"})}}}]);
+//# sourceMappingURL=4.43e2d0ab.chunk.js.map

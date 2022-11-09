@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f499b1ba.chunk.css",
+    "main.js": "/static/js/main.d803aa63.chunk.js",
+    "main.js.map": "/static/js/main.d803aa63.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2a8d4329.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2a8d4329.js.map",
+    "static/js/2.e0a9ee30.chunk.js": "/static/js/2.e0a9ee30.chunk.js",
+    "static/js/2.e0a9ee30.chunk.js.map": "/static/js/2.e0a9ee30.chunk.js.map",
+    "static/js/3.d5fdd0da.chunk.js": "/static/js/3.d5fdd0da.chunk.js",
+    "static/js/3.d5fdd0da.chunk.js.map": "/static/js/3.d5fdd0da.chunk.js.map",
+    "static/js/4.43e2d0ab.chunk.js": "/static/js/4.43e2d0ab.chunk.js",
+    "static/js/4.43e2d0ab.chunk.js.map": "/static/js/4.43e2d0ab.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f499b1ba.chunk.css.map": "/static/css/main.f499b1ba.chunk.css.map",
+    "static/js/2.e0a9ee30.chunk.js.LICENSE.txt": "/static/js/2.e0a9ee30.chunk.js.LICENSE.txt",
+    "static/media/font.scss": "/static/media/gt-walsheim-regular.55e6dce2.ttf",
+    "static/media/amway-logo-black.e00d05b3.svg": "/static/media/amway-logo-black.e00d05b3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a8d4329.js",
+    "static/js/2.e0a9ee30.chunk.js",
+    "static/css/main.f499b1ba.chunk.css",
+    "static/js/main.d803aa63.chunk.js"
+  ]
+}
